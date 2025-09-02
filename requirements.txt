@@ -1,0 +1,6 @@
+txt
+
+fuzzywuzzy
+python-Levenshtein
+soundex
+sentence-transformers
